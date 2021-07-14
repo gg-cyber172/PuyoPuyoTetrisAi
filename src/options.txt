@@ -1,0 +1,2 @@
+Windowsize = 1600x900
+Audio = 1
